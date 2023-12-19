@@ -1,0 +1,25 @@
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\obj\Debug\net6.0-windows\ESENP Project.csproj.AssemblyReference.cache
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\obj\Debug\net6.0-windows\ESENP_Project.Form1.resources
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\obj\Debug\net6.0-windows\ESENP Project.csproj.GenerateResource.cache
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\obj\Debug\net6.0-windows\ESENP Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\obj\Debug\net6.0-windows\ESENP Project.AssemblyInfoInputs.cache
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\obj\Debug\net6.0-windows\ESENP Project.AssemblyInfo.cs
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\obj\Debug\net6.0-windows\ESENP Project.csproj.CoreCompileInputs.cache
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\bin\Debug\net6.0-windows\ESENP Project.exe
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\bin\Debug\net6.0-windows\ESENP Project.deps.json
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\bin\Debug\net6.0-windows\ESENP Project.runtimeconfig.json
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\bin\Debug\net6.0-windows\ESENP Project.dll
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\bin\Debug\net6.0-windows\ESENP Project.pdb
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\obj\Debug\net6.0-windows\ESENP Project.csproj.CopyComplete
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\obj\Debug\net6.0-windows\ESENP Project.dll
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\obj\Debug\net6.0-windows\refint\ESENP Project.dll
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\obj\Debug\net6.0-windows\ESENP Project.pdb
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\obj\Debug\net6.0-windows\ESENP Project.genruntimeconfig.cache
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\obj\Debug\net6.0-windows\ref\ESENP Project.dll
+C:\Users\Syed\source\repos\ESENP Project\ESENP Project\obj\Debug\net6.0-windows\ESENP_Project.Properties.Resources.resources
